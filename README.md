@@ -1,8 +1,6 @@
 # slack-traductor
 Slack bot to translate chat messages of any language into specified language
 
-![example](example.png)
-
 ## Why?
 
 Because we are an international team and sometimes I don't understand what they all are talking about.
