@@ -1,6 +1,6 @@
 slack-translator:
   build: .
-  command: npm run -s start
+  command: npm run start
   environment:
     - BOT_NAME=bot_name
     - BOT_TOKEN=bot_token
