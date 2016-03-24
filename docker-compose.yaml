@@ -1,5 +1,5 @@
-sut:
-  image: this
+slack-translator:
+  image: .
   command: npm run -s start
   environment:
     - BOT_NAME=bot_name
@@ -8,4 +8,3 @@ sut:
     - CLIENT_SECRET=client_secret
     - TRANSLATE_TO=en
     - SUSPEND_TIMEOUT=86400000
-
